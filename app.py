@@ -16,3 +16,5 @@
 # color = input("What is your fav color? ")
 # print(name + " likes " + color)
 
+value = 1
+print(value)
